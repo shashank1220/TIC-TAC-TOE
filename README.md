@@ -14,6 +14,8 @@ Technologies Used:
 2. CSS: Styling the game board and player pieces
 3. JavaScript: Game logic, turn handling, and win detection
 
+Installation: 
+1. click this https://shashank1220.github.io/TIC-TAC-TOE/
 How to Play:
 
 1. The game consists of a 3x3 grid. Players take turns placing their mark ("X" or "O") on an empty cell.
